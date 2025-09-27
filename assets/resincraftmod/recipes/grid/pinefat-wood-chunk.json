@@ -14,13 +14,13 @@
 		},
 		"D": {
 			"type": "item",
-			"code": "resincraftmod:drawknife-*",
+			"code": "drawknife-*",
 			"isTool": true
 		}
 	},
 	"output": {
 		"type": "item",
-		"code": "resincraftmod:pinefatwoodchunk",
+		"code": "pinefat-wood-chunk",
 		"quantity": 4
 	}
 }

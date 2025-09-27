@@ -8,6 +8,7 @@
   "resin": {"base": "game:block/resin" }
   },
   "shape": {
+    "scale": 0.8,
     "base": "pitchpotresinous"
   },
   "drawtype": "json",
@@ -23,13 +24,24 @@
     "hit": "game:block/ceramichit",
     "place": "game:block/ceramicplace"
   },
+  "behaviors": [
+    { "name": "RightClickPickup"}
+  ],
   "sideopaque": {
     "all": false
   },
   "sidesolid": {
     "all": false
   },
-	drops: [
-		{ type: "item", code: "game:resin",  quantity: { avg: 8, var: 0 }  }
+  "attributes": {
+    "inFirePitProps": {
+      "transform": {
+        "translation": { "x": 0, "y": 0.225, "z": 0 }
+      },
+      "useFirepitModel": "Wide"
+    }
+  },
+	"drops": [
+		{ "type": "item", "code": "game:resin",  "quantity": { "avg": 8, "var": 0 }  }
 	],
 }

@@ -8,6 +8,7 @@
   "wood": {"base": "light-pine" }
   },
   "shape": {
+    "scale": 0.8,
     "base": "pitchpotlid-woodlid"
   },
   "drawtype": "json",
@@ -23,20 +24,31 @@
     "hit": "game:block/ceramichit",
     "place": "game:block/ceramicplace"
   },
+  "behaviors": [
+    { "name": "RightClickPickup"}
+  ],
   "sideopaque": {
     "all": false
   },
   "sidesolid": {
     "all": false
   },
-  	combustiblePropsByType: {
+  "attributes": {
+    "inFirePitProps": {
+      "transform": {
+        "translation": { "x": 0, "y": 0.225, "z": 0 }
+      },
+      "useFirepitModel": "Wide"
+    }
+  },
+  "combustiblePropsByType": {
 		"pitchpotlid-birch": {
-			meltingPoint: 250,
-			meltingDuration: 180,
-			smeltedRatio: 1,
-			smeltingType: "cook",
-			smeltedStack: { type: "block", code: "pitchpot-resin" },
-			requiresContainer: false
+			"meltingPoint": 250,
+			"meltingDuration": 180,
+			"smeltedRatio": 1,
+			"smeltingType": "cook",
+			"smeltedStack": { "type": "block", "code": "pitchpot-resin" },
+			"requiresContainer": false
 		}
 	}
 }

@@ -7,6 +7,7 @@
     "base": "game:block/clay/ceramic-dark"
   },
   "shape": {
+    "scale": 0.8,
     "base": "pitchpotlid"
   },
   "drawtype": "json",
@@ -22,20 +23,31 @@
     "hit": "game:block/ceramichit",
     "place": "game:block/ceramicplace"
   },
+  "behaviors": [
+    { "name": "RightClickPickup"}
+  ],
   "sideopaque": {
     "all": false
   },
   "sidesolid": {
     "all": false
   },
-  	combustiblePropsByType: {
+  "attributes": {
+    "inFirePitProps": {
+      "transform": {
+        "translation": { "x": 0, "y": 0.225, "z": 0 }
+      },
+      "useFirepitModel": "Wide"
+    }
+  },
+  "combustiblePropsByType": {
 		"pitchpotlid-pine": {
-			meltingPoint: 450,
-			meltingDuration: 900,
-			smeltedRatio: 1,
-			smeltingType: "cook",
-			smeltedStack: { type: "block", code: "pitchpot-pinetar" },
-			requiresContainer: false
+			"meltingPoint": 450,
+			"meltingDuration": 900,
+			"smeltedRatio": 1,
+			"smeltingType": "cook",
+			"smeltedStack": { "type": "block", "code": "pitchpot-pinetar" },
+			"requiresContainer": false
 		}
 	}
 }

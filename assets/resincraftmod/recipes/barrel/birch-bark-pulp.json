@@ -1,5 +1,5 @@
 {
-  "code": "birchbark-pulp",
+  "code": "birch-bark-pulp",
   "sealHours": 48,
   "ingredients": [
     {
@@ -10,14 +10,14 @@
     },
     {
       "type": "item",
-      "code": "birchbarkstrip",
+      "code": "birch-bark-strip",
 	  "name": "Birch bark strip",
       "quantity": 64
     }
   ],
   "output": {
     "type": "item",
-    "code": "birchbarkpulp",
+    "code": "birch-bark-pulp",
     "quantity": 1
   }
 }

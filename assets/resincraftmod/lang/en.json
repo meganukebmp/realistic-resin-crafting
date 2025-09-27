@@ -1,6 +1,6 @@
 {
   "game:tabname-resincraftmod": "ResinCrafting",
-  "item-birchbarkstrip": "Birch Bark Strip",
+  "item-birch-bark-strip": "Birch Bark Strip",
   "item-pinefatwoodchunk": "Pine Fatwood Chunk",
 	"item-drawknife-tinbronze": "Tin bronze Drawknife",
 	"item-drawknife-bismuthbronze": "Bismuth bronze Drawknife",
@@ -18,8 +18,8 @@
 	"item-drawknifeblade-iron": "Iron Drawknife Blade",
 	"item-drawknifeblade-steel": "Steel Drawknife Blade",
 	"item-drawknifeblade-meteoriciron": "Meteor Iron Drawknife Blade",
-	"item-birchbarkpulp": "Birch Bark Pulp",
-	"item-pinepitchbar": "Pinepitch Bar",
+	"item-birch-bark-pulp": "Birch Bark Pulp",
+	"item-pinepitch-bar": "Pinepitch Bar",
 	"block-pitchpotlid-pine": "Pitchpot (Pine)",
 	"block-pitchpotlid-birch": "Pitchpot (Birch)",
 	"block-pitchpot-pinetar": "Pitchpot (Pine-tar)",

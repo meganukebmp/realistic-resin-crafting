@@ -1,17 +1,17 @@
 {
-	"ingredientPattern": "ADA,ALA,AAA,",
+	"ingredientPattern": "CPC,CBC,CCC,",
 	"width": 3,
 	"height": 3,
 	"ingredients": {
-		"A": {
+		"C": {
 			"type": "item",
 			"code": "game:clay-*"
 		},
-		"L": {
+		"B": {
 			"type": "item",
-			"code": "birchbarkpulp"
+			"code": "birch-bark-pulp"
 		},
-		"D": {
+		"P": {
 			"type": "item",
 			"code": "game:plank-*"
 		}

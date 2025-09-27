@@ -31,6 +31,6 @@
   },
 	drops: [
 		{ type: "item", code: "game:resin",  quantity: { avg: 4, var: 2 }  },
-		{ type: "item", code: "pinepitchbar",  quantity: { avg: 2, var: 2 }  },
+		{ type: "item", code: "pinepitch-bar",  quantity: { avg: 2, var: 2 }  },
 	],
 }

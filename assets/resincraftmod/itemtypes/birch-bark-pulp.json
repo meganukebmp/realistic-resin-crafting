@@ -1,13 +1,13 @@
 {
-  "code": "pinepitchbar",
+  "code": "birch-bark-pulp",
   "creativeinventory": {
     "general": [ "*" ]
   },
   "texture": {
-    "base": "game:item/tool/shield/leather/black"
+    "base": "game:block/cloth/wool/white2"
   },
   "shape": {
-    "base": "pinepitchbar"
+    "base": "birch-bark-pulp"
   },
   	maxstacksize: 64,
 	materialDensity: 500,

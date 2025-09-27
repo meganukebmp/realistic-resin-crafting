@@ -14,13 +14,13 @@
 		},
 		"D": {
 			"type": "item",
-			"code": "resincraftmod:drawknife-*",
+			"code": "drawknife-*",
 			"isTool": true
 		}
 	},
 	"output": {
 		"type": "item",
-		"code": "resincraftmod:birchbarkstrip",
+		"code": "birch-bark-strip",
 		"quantity": 4
 	}
 }

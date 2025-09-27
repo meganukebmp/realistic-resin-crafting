@@ -11,7 +11,7 @@
 			},
 			"P": {
 				"type": "item",
-				"code": "pinepitchbar",
+				"code": "pinepitch-bar",
 				"quantity": 2
 			},
 			"D": {
@@ -47,7 +47,7 @@
 			},
 			"P": {
 				"type": "item",
-				"code": "pinepitchbar",
+				"code": "pinepitch-bar",
 				"quantity": 2
 			},
 			"D": {

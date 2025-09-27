@@ -13,7 +13,7 @@
 
   },
   "texture": {
-    "base": "pine"
+    "base": "light-pine"
   },
   "shape": {
     "base": "pinefatwoodchunk-s"

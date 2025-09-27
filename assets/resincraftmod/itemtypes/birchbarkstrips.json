@@ -13,7 +13,7 @@
 
   },
   "texture": {
-    "base": "birch"
+    "base": "game:block/wood/bark/birch"
   },
   "shape": {
     "base": "birchbarkstrip-s"

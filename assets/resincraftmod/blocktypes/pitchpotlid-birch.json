@@ -5,7 +5,7 @@
   },
 "textures": {
   "ceramic": {"base": "game:block/clay/ceramic-dark" },
-  "wood": {"base": "pine" }
+  "wood": {"base": "light-pine" }
   },
   "shape": {
     "base": "pitchpotlid-woodlid"

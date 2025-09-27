@@ -9,6 +9,8 @@
   "shape": {
     "base": "birch-bark-pulp"
   },
+    attributes: { canSealCrock : true},
+  
   	maxstacksize: 64,
 	materialDensity: 500,
 	guiTransform: {

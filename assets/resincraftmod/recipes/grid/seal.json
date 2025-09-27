@@ -1,0 +1,14 @@
+
+{
+	// This recipe looks odd, because the sealing happens in code in BlockCrock.cs
+	ingredientPattern: "C,F",
+	ingredients: {
+		"C": { type: "block", code: "game:crock-*-fired", name: "color" },
+		"F": { type: "item", code: "birch-bark-pulp" }
+	},
+	width: 1,
+	height: 2,
+	shapeless: true,
+	output: { type: "block", code: "game:crock-{color}-fired", quantity: 1  }
+}
+

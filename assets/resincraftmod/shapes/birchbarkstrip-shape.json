@@ -12,10 +12,6 @@
 		"birch": [16,16],
 		"birch2": [16,16]
 	},
-	"textures": {
-		"birch": "/Users/nikol/AppData/Roaming/Vintagestory/assets/survival/textures/block/wood/bark/birch",
-		"birch2": "/Users/nikol/AppData/Roaming/Vintagestory/assets/survival/textures/block/wood/debarked/birch"
-	},
 	"elements": [
 		{
 			"name": "base",

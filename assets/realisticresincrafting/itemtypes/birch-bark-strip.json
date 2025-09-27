@@ -28,8 +28,9 @@
 		burnDuration: 8,
 
   },
-  "texture": {
-    "base": "game:block/wood/bark/birch"
+  "textures": {
+    "birch": {"base": "game:block/wood/bark/birch" },
+    "linen": {"base": "game:block/linen" }
   },
   "shape": {
     "base": "birch-bark-strip"

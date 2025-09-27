@@ -8,9 +8,6 @@
 	"textureSizes": {
 		"glue": [16,16]
 	},
-	"textures": {
-		"glue": "/Users/nikol/AppData/Roaming/Vintagestory/assets/survival/textures/block/liquid/glue"
-	},
 	"elements": [
 		{
 			"name": "Cube2",

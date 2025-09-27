@@ -1,5 +1,5 @@
 {
-  "code": "antisepticbandage",
+  "code": "antiseptic-bandage",
   "behaviors": [
     {
       "name": "HealingItem",
@@ -20,7 +20,7 @@
   "attributes": {},
   "maxstacksize": 16,
   "shape": { 
-    "base": "tarbandage" 
+    "base": "antiseptic-bandage" 
   },
 "textures": {
   "linen": {"base": "game:block/linen" },

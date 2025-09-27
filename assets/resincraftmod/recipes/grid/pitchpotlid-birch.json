@@ -1,0 +1,23 @@
+{
+	"ingredientPattern": "ADA,ALA,AAA,",
+	"width": 3,
+	"height": 3,
+	"ingredients": {
+		"A": {
+			"type": "item",
+			"code": "game:clay-*"
+		},
+		"L": {
+			"type": "item",
+			"code": "birchbarkpulp"
+		},
+		"D": {
+			"type": "item",
+			"code": "game:plank-*"
+		}
+	},
+	"output": {
+		"type": "block",
+		"code": "pitchpotlid-birch"
+	}
+}

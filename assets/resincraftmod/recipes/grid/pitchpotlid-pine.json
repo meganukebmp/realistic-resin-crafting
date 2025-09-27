@@ -1,0 +1,24 @@
+{
+	"ingredientPattern": "ADA,ALA,AAA,",
+	"width": 3,
+	"height": 3,
+	"ingredients": {
+		"A": {
+			"type": "item",
+			"code": "game:clay-*"
+		},
+		"L": {
+			"type": "item",
+			"code": "pinepitchbar",
+			"quantity": 16
+		},
+		"D": {
+			"type": "item",
+			"code": "game:charcoal"
+		}
+	},
+	"output": {
+		"type": "block",
+		"code": "pitchpotlid-pine"
+	}
+}

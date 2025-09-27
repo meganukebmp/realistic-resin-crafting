@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "S,D,S",
+		ingredients: {
+			"D": { type: "item", code: "drawknifeblade-*", name: "material", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel" ]  },
+			"S": { type: "item", code: "game:stick" }
+		},
+		width: 3,
+		height: 1,
+		output: { type: "item", code: "drawknife-{material}", quantity: 1  }
+	},
+]

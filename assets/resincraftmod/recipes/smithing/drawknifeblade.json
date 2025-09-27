@@ -1,0 +1,33 @@
+{
+  "ingredient": {
+    "type": "item",
+    "code": "game:ingot-*",
+    "name": "metal",
+    "allowedVariants": [ "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", 
+															"iron", "meteoriciron", "steel" ]
+  },
+  "pattern": [
+    [
+      "#########",
+      "#########",
+      "_________",
+      "_________",
+      "_________",
+      "_________"
+    ],
+	[
+      "#########",
+      "_________",
+      "_________",
+      "_________",
+      "_________",
+      "_________"
+    ]
+	
+  ],
+  "name": "Drawknife Blade",
+  "output": {
+    "type": "item",
+    "code": "drawknifeblade-{metal}"
+  }
+}

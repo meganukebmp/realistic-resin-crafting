@@ -1,0 +1,23 @@
+{
+  "code": "birchbark-pulp",
+  "sealHours": 48,
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "game:waterportion",
+      "litres": 32,
+      "consumeLitres": 32
+    },
+    {
+      "type": "item",
+      "code": "birchbarkstrip",
+	  "name": "Birch bark strip",
+      "quantity": 64
+    }
+  ],
+  "output": {
+    "type": "item",
+    "code": "birchbarkpulp",
+    "quantity": 1
+  }
+}

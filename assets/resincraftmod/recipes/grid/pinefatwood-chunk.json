@@ -1,0 +1,26 @@
+{
+	"ingredientPattern": "A,L,D,",
+	"width": 3,
+	"height": 1,
+	"ingredients": {
+		"A": {
+			"type": "item",
+			"code": "game:axe-*",
+			"isTool": true
+		},
+		"L": {
+			"type": "block",
+			"code": "game:log-placed-pine-ud"
+		},
+		"D": {
+			"type": "item",
+			"code": "resincraftmod:drawknife-*",
+			"isTool": true
+		}
+	},
+	"output": {
+		"type": "item",
+		"code": "resincraftmod:pinefatwoodchunk",
+		"quantity": 4
+	}
+}

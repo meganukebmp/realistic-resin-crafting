@@ -1,0 +1,42 @@
+{
+  "code": "pitchpotlid-birch",
+  "creativeinventory": {
+    "general": ["*"]
+  },
+"textures": {
+  "ceramic": {"base": "game:block/clay/ceramic-dark" },
+  "wood": {"base": "pine" }
+  },
+  "shape": {
+    "base": "pitchpotlid-woodlid"
+  },
+  "drawtype": "json",
+  "blockmaterial": "Ceramic",
+  "replaceable": 1000,
+  "resistance": 0.8,
+  "maxStackSize": 4,
+  "sideAo": { "all": false },
+  "lightAbsorption": 0,
+  "sounds": {
+    "walk": "walk/stone",
+    "break": "block/ceramicplace",
+    "hit": "block/ceramichit",
+    "place": "block/ceramicplace"
+  },
+  "sideopaque": {
+    "all": false
+  },
+  "sidesolid": {
+    "all": false
+  },
+  	combustiblePropsByType: {
+		"pitchpotlid-birch": {
+			meltingPoint: 250,
+			meltingDuration: 180,
+			smeltedRatio: 1,
+			smeltingType: "cook",
+			smeltedStack: { type: "block", code: "pitchpot-resin" },
+			requiresContainer: false
+		}
+	}
+}

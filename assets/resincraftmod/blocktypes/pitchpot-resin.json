@@ -1,0 +1,35 @@
+{
+  "code": "pitchpot-resin",
+  "creativeinventory": {
+    "general": ["*"]
+  },
+"textures": {
+  "ceramic": {"base": "game:block/clay/ceramic-dark" },
+  "resin": {"base": "game:block/resin" }
+  },
+  "shape": {
+    "base": "pitchpotresinous"
+  },
+  "drawtype": "json",
+  "blockmaterial": "Ceramic",
+  "replaceable": 1000,
+  "resistance": 0.8,
+  "maxStackSize": 4,
+  "sideAo": { "all": false },
+  "lightAbsorption": 0,
+  "sounds": {
+    "walk": "walk/stone",
+    "break": "block/ceramicplace",
+    "hit": "block/ceramichit",
+    "place": "block/ceramicplace"
+  },
+  "sideopaque": {
+    "all": false
+  },
+  "sidesolid": {
+    "all": false
+  },
+	drops: [
+		{ type: "item", code: "game:resin",  quantity: { avg: 8, var: 0 }  }
+	],
+}

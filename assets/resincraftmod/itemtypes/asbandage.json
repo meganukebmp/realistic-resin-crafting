@@ -1,0 +1,58 @@
+{
+  "code": "antisepticbandage",
+  "behaviors": [
+    {
+      "name": "HealingItem",
+      "propertiesByType": {
+        "*": {
+          "health": 20,
+          "applicationtimesec": 20,
+          "maxapplicationtimesec": 30,
+          "effectdurationsec": 180,
+          "ticks": 60,
+          "cancelinair": false,
+          "cancelwhileswimming": false,
+          "delaytocancelsec": 0.5
+        }
+      }
+    }
+  ],
+  "attributes": {},
+  "maxstacksize": 16,
+  "shape": { 
+    "base": "tarbandage" 
+  },
+"textures": {
+  "linen": {"base": "game:block/linen" },
+  "glue": {"base": "game:block/liquid/glue-hot" }
+  },
+  "creativeinventory": { 
+    "general": ["*"], 
+    "items": ["*"] 
+  },
+  "materialDensity": 600,
+  "guiTransform": {
+    "translation": { "x": 0, "y": 0, "z": 0 },
+    "rotation": { "x": 120, "y": 41, "z": 7 },
+    "origin": { "x": 0.5, "y": 0.11, "z": 0.47 },
+    "scale": 1.33
+  },
+  "fpHandTransform": {
+    "translation": { "x": 0, "y": 0, "z": 0 },
+    "rotation": { "x": 40, "y": 91, "z": 15 },
+    "origin": { "x": 0.8, "y": 0.4, "z": 0 },
+    "scale": 1.47
+  },
+  "groundTransform": {
+    "translation": { "x": 0, "y": 0, "z": 0 },
+    "rotation": { "x": 180, "y": 33, "z": -180 },
+    "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+    "scale": 2.5
+  },
+  "tpHandTransform": {
+    "translation": { "x": 0, "y": 0, "z": 0 },
+    "rotation": { "x": 5, "y": 41, "z": -31 },
+    "origin": { "x": 0.16, "y": 0.05, "z": 0.08 },
+    "scale": 0.44
+  }
+}

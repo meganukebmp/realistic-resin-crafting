@@ -1,0 +1,20 @@
+{
+	"ingredientPattern": "K,L,",
+	"width": 2,
+	"height": 1,
+	"ingredients": {
+		"K": {
+			"type": "item",
+			"code": "game:knife-*",
+			"isTool": true
+		},
+		"L": {
+			"type": "block",
+			"code": "pitchpot-pinetar"
+	},
+	},
+	"output": {
+		"type": "block",
+		"code": "pitchpot-resin",
+	}
+}

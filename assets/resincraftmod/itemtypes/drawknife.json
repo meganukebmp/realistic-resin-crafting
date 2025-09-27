@@ -1,0 +1,131 @@
+{
+  "code": "drawknife",
+  "creativeinventory": {
+    "general": [ "*" ],
+	  
+  },
+  toolrackTransform: {
+			translation: { x: -0.15, y: 0.05, z: 0 },
+			rotation: { x: 0, y: 1, z: -1 },
+			scale: 1.35
+  },
+  groundStorageTransform: {
+			translation: { x: 0.03, y: -0.18, z: 0.29 },
+			rotation: { x: 26, y: 90, z: -90 },
+			scale: 0.88
+	},
+	behaviors: [
+		{ 
+			name: "GroundStorable",
+			properties: {
+				layout: 'WallHalves',
+				wallOffY: 1,
+				ctrlKey: true,
+				selectionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.1, z2: 1 },
+				collisionBox: { x1: 0, y1: 0, z1: 0, x2: 0, y2: 0, z2: 0 },
+			}
+		}, 
+		{ name: "EntityResinTool" }
+	],
+	variantgroups: [
+		{ code: "metal", states: ["tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", 
+															"iron", "meteoriciron", "steel"
+		  ] },
+	],
+	damagedby: ["blockbreaking", "attacking"],
+	shape: { base: "drawknife" },
+	heldTpHitAnimation: "breaktool",
+	texturesByType: {
+		"*": {
+			"metal": { base: "game:block/metal/ingot/{metal}" },
+			"wood":  { base: "game:block/wood/oak" }
+		}
+	},
+tooltierbytype: {
+		"drawknife-copper": 2,
+		"drawknife-gold": 2,
+		"drawknife-silver": 2,
+		"drawknife-bismuthbronze": 3,
+		"drawknife-tinbronze": 3,
+		"drawknife-blackbronze": 3,
+		"drawknife-iron": 4,
+		"drawknife-meteoriciron": 4,
+		"drawknife-steel": 5
+	},
+	miningspeedbytype: {
+		"*-stone": {
+			"wood": 3,
+			"leaves": 1.6
+		},
+		"*-copper": {
+			"wood": 4,
+			"leaves": 2.4
+		},
+		"*-bismuthbronze": {
+			"wood": 4.4,
+			"leaves": 2.6
+		},
+		"*-tinbronze": {
+			"wood": 4.6,
+			"leaves": 3
+		},
+		"*-silver": {
+			"wood": 4.6,
+			"leaves": 3
+		},
+		"*-gold": {
+			"wood": 4.6,
+			"leaves": 3
+		},
+		"*-blackbronze": {
+			"wood": 4.7,
+			"leaves": 3.1
+		},
+		"*-iron": {
+			"wood": 5,
+			"leaves": 3.2
+		},
+		"*-meteoriciron": {
+			"wood": 5.5,
+			"leaves": 3.6
+		},
+		"*-steel": {
+			"wood": 6,
+			"leaves": 4
+		}
+	},
+	durabilitybytype: {
+		"drawknife-gold": 70,
+		"drawknife-silver": 90,
+		"drawknife-copper": 250,
+		"drawknife-tinbronze": 400,
+		"drawknife-bismuthbronze": 450,
+		"drawknife-blackbronze": 500,
+		"drawknife-iron": 900,
+		"drawknife-meteoriciron": 1200,
+		"drawknife-steel": 2250
+	},
+	fpHandTransform: {
+		translation: { x: 0.0468, y: 0, z: 0 },
+		rotation: { x: -161, y: 20, z: 90 },
+		scale: 2.5
+	},
+	guiTransform: {
+		rotate: false,
+		translation: { x: 1, y: 0, z: 0 },
+		rotation: { x: -77, y: 47, z: -151 },
+		origin: { x: 0.5, y: 0.5, z: 0.38 },
+		scale: 1.9
+	},
+	groundTransform: {
+		translation: { x: 0, y: 0, z: 0 },
+		rotation: { x: 0, y: 0, z: 0 },
+		origin: { x: 0.5, y: 0.45, z: 0.5 },
+		scale: 3.6
+	},
+	tpHandTransform: {
+		translation: { x: -0.65, y: -0.62, z: -0.45 },
+		rotation: { x: 90, y: -174, z: 0 },
+		scale: 1
+	}	
+}

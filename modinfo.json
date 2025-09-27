@@ -1,10 +1,12 @@
 {
   "type": "content",
-  "modid": "resincraftmod",
+  "modid": "realisticresincrafting",
   "name": "Realistic Resin Crafting",
   "authors": [
     "Niki", "Nexrem","Akaylass"
   ],
   "description": "Just look up resin in the handybook, you're a big boy",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "side" : "Universal",
+  "dependencies": { "game": "", "survival": ""}
 }

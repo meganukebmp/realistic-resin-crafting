@@ -10,9 +10,10 @@
 		"metal": { base: "game:block/metal/ingot/{metal}" },
 	},
 	attributes: {
-		onTongTransform: {
-			translation: { x: -1.04, y: -0.7, z: -0.54 },
-			rotation: { x: -95, y: -106, z: 8 }
+    onTongTransform: {
+      translation: { x: -1.26, y: -0.82, z: -0.54 },
+      rotation: { x: -95, y: -106, z: -79 },
+      scale: 0.99
 		}
 	},
 	creativeinventory: { "general": ["*"], "items": ["*"] },

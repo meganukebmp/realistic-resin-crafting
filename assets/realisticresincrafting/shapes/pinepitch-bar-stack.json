@@ -1,0 +1,1946 @@
+{
+	"editor": {
+		"collapsedPaths": "Root/pinepitch-bar0-9,Root/pinepitch-bar0-8,Root/pinepitch-bar0-7,Root/pinepitch-bar0-6,Root/pinepitch-bar0-5,Root/pinepitch-bar1-18,Root/pinepitch-bar0-4,Root/pinepitch-bar0-3,Root/pinepitch-bar0-2,Root/pinepitch-bar1-15,Root/pinepitch-bar0-1,Root/pinepitch-bar1-14,Root/pinepitch-bar1-17,Root/pinepitch-bar1-16,Root/pinepitch-bar1-11,Root/pinepitch-bar1-10,Root/pinepitch-bar1-13,Root/pinepitch-bar1-12",
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+	},
+	"elements": [
+		{
+			"name": "pinepitch-bar1",
+			"from": [ 10.5, 0.0, 11.0 ],
+			"to": [ 15.5, 1.5, 15.0 ],
+			"rotationOrigin": [ 10.0, 0.0, 3.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris1",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris2",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris3",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar2",
+			"from": [ 10.5, 0.0, 6.0 ],
+			"to": [ 15.5, 1.5, 10.0 ],
+			"rotationOrigin": [ 10.0, 0.0, -2.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris4",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris5",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris6",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar3",
+			"from": [ 10.5, 0.0, 1.0 ],
+			"to": [ 15.5, 1.5, 5.0 ],
+			"rotationOrigin": [ 10.0, 0.0, -7.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris7",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris8",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris9",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar4",
+			"from": [ -2.0, 0.0, 15.0 ],
+			"to": [ 3.0, 1.5, 19.0 ],
+			"rotationOrigin": [ -3.0, 0.0, 6.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris10",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris11",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris12",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar7",
+			"from": [ 0.5, 0.0, 1.0 ],
+			"to": [ 5.5, 1.5, 5.0 ],
+			"rotationOrigin": [ 0.0, 0.0, -7.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris13",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris14",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris15",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar6",
+			"from": [ -1.5, 0.0, 19.0 ],
+			"to": [ 3.5, 1.5, 23.0 ],
+			"rotationOrigin": [ -2.0, -1.0, 11.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris16",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris17",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris18",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar5",
+			"from": [ 1.25, 0.0, 27.0 ],
+			"to": [ 6.25, 1.5, 31.0 ],
+			"rotationOrigin": [ -2.0, 0.0, 19.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris19",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris20",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris21",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar8",
+			"from": [ 0.5, 0.0, 6.0 ],
+			"to": [ 5.5, 1.5, 10.0 ],
+			"rotationOrigin": [ 0.0, 0.0, -2.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris22",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris23",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris24",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar9",
+			"from": [ 0.5, 0.0, 11.0 ],
+			"to": [ 5.5, 1.5, 15.0 ],
+			"rotationOrigin": [ 0.0, 0.0, 3.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris25",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris26",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris27",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar10",
+			"from": [ 5.5, 1.5, 11.0 ],
+			"to": [ 10.5, 3.0, 15.0 ],
+			"rotationOrigin": [ 5.0, 2.0, 3.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris28",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris29",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris30",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar11",
+			"from": [ 5.5, 1.5, 6.0 ],
+			"to": [ 10.5, 3.0, 10.0 ],
+			"rotationOrigin": [ 5.0, 2.0, -2.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris31",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris32",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris33",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar12",
+			"from": [ 5.5, 1.5, 1.0 ],
+			"to": [ 10.5, 3.0, 5.0 ],
+			"rotationOrigin": [ 5.0, 2.0, -7.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris34",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris35",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris36",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar13",
+			"from": [ 6.15, 1.5, 27.0 ],
+			"to": [ 11.15, 3.0, 31.0 ],
+			"rotationOrigin": [ 3.0, 1.0, 19.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris37",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris38",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris39",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar14",
+			"from": [ 6.55, 1.5, 22.0 ],
+			"to": [ 11.55, 3.0, 26.0 ],
+			"rotationOrigin": [ 3.0, 1.0, 14.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris40",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris41",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris42",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar15",
+			"from": [ 6.0, 1.5, 16.0 ],
+			"to": [ 11.0, 3.0, 20.0 ],
+			"rotationOrigin": [ 3.0, 1.0, 8.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris43",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris44",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris45",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar16",
+			"from": [ -4.0, 1.5, 16.0 ],
+			"to": [ 1.0, 3.0, 20.0 ],
+			"rotationOrigin": [ -7.0, 1.0, 8.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris46",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris47",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris48",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar17",
+			"from": [ -4.55, 1.5, 21.0 ],
+			"to": [ 0.45, 3.0, 25.0 ],
+			"rotationOrigin": [ -7.0, 1.0, 13.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris49",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris50",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris51",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar18",
+			"from": [ -4.0, 1.5, 27.0 ],
+			"to": [ 1.0, 3.0, 31.0 ],
+			"rotationOrigin": [ -7.0, 1.0, 19.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris52",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris53",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris54",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar19",
+			"from": [ 1.0, 3.0, 27.0 ],
+			"to": [ 6.0, 4.5, 31.0 ],
+			"rotationOrigin": [ -2.0, 2.0, 19.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris55",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris56",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris57",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar20",
+			"from": [ 1.5, 3.0, 22.0 ],
+			"to": [ 6.5, 4.5, 26.0 ],
+			"rotationOrigin": [ -2.0, 2.0, 14.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris58",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris59",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris60",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar21",
+			"from": [ 1.9, 3.0, 17.0 ],
+			"to": [ 6.9, 4.5, 21.0 ],
+			"rotationOrigin": [ -2.0, 2.0, 9.0 ],
+			"rotationY": 90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris61",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris62",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris63",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar22",
+			"from": [ 0.5, 3.0, 1.0 ],
+			"to": [ 5.5, 4.5, 5.0 ],
+			"rotationOrigin": [ 0.0, 2.0, -7.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris64",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris65",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris66",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar23",
+			"from": [ 0.5, 3.0, 6.0 ],
+			"to": [ 5.5, 4.5, 10.0 ],
+			"rotationOrigin": [ 0.0, 2.0, -2.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris67",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris68",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris69",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar24",
+			"from": [ 0.5, 3.0, 11.0 ],
+			"to": [ 5.5, 4.5, 15.0 ],
+			"rotationOrigin": [ 0.0, 2.0, 3.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris70",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris71",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris72",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar25",
+			"from": [ 10.5, 3.0, 11.0 ],
+			"to": [ 15.5, 4.5, 15.0 ],
+			"rotationOrigin": [ 10.0, 2.0, 3.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris73",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris74",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris75",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar26",
+			"from": [ 10.5, 3.0, 6.0 ],
+			"to": [ 15.5, 4.5, 10.0 ],
+			"rotationOrigin": [ 10.0, 2.0, -2.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris76",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris77",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris78",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar27",
+			"from": [ 10.5, 3.0, 1.0 ],
+			"to": [ 15.5, 4.5, 5.0 ],
+			"rotationOrigin": [ 10.0, 2.0, -7.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris79",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris80",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris81",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar28",
+			"from": [ 8.5, 4.5, 3.75 ],
+			"to": [ 13.5, 6.0, 7.75 ],
+			"rotationOrigin": [ 8.0, 3.0, -5.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris82",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris83",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris84",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar29",
+			"from": [ 2.5, 4.5, 3.75 ],
+			"to": [ 7.5, 6.0, 7.75 ],
+			"rotationOrigin": [ 2.0, 3.0, -5.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris85",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris86",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris87",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar30",
+			"from": [ 2.5, 4.5, 8.75 ],
+			"to": [ 7.5, 6.0, 12.75 ],
+			"rotationOrigin": [ 2.0, 3.0, 0.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris88",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris89",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris90",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar31",
+			"from": [ 8.5, 4.5, 8.75 ],
+			"to": [ 13.5, 6.0, 12.75 ],
+			"rotationOrigin": [ 8.0, 3.0, 0.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris91",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris92",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris93",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "pinepitch-bar32",
+			"from": [ 5.5, 6.0, 6.4 ],
+			"to": [ 10.5, 7.5, 10.4 ],
+			"rotationOrigin": [ 5.0, 3.0, -1.0 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 1.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 1.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 5.0, 4.0 ] }
+			},
+			"children": [
+				{
+					"name": "Debris94",
+					"from": [ 1.0, 1.5, 3.0 ],
+					"to": [ 1.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 1.0, 1.0, 3.0 ],
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris95",
+					"from": [ 2.0, 1.5, 1.0 ],
+					"to": [ 2.75, 1.75, 1.5 ],
+					"rotationOrigin": [ 2.0, 1.0, 1.0 ],
+					"rotationY": -67.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				},
+				{
+					"name": "Debris96",
+					"from": [ 4.0, 1.5, 3.0 ],
+					"to": [ 4.75, 1.75, 3.5 ],
+					"rotationOrigin": [ 4.0, 1.0, 3.0 ],
+					"rotationY": -157.5,
+					"faces": {
+						"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+						"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+					}
+				}
+			]
+		}
+	]}

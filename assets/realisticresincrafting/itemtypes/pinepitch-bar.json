@@ -1,5 +1,21 @@
 {
   "code": "pinepitch-bar",
+  behaviors: [
+		{ name: "GroundStorable", 
+			properties: {
+				layout: 'Stacking',
+				placeRemoveSound: 'game:sounds/block/loosestick',
+				stackingModel: 'pinepitch-bar-stack',
+				upSolid: false,
+				modelItemsToStackSizeRatio: 4,
+				stackingCapacity: 32,
+				transferQuantity: 1,
+				bulkTransferQuantity: 8,
+				collisionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.14, z2: 1 },
+				cbScaleYByLayer: 0.085
+			}
+		}
+	],
   "creativeinventory": {
     "general": [ "*" ]
   },

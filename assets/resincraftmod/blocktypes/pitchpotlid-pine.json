@@ -3,6 +3,8 @@
   "creativeinventory": {
     "general": ["*"]
   },
+  "heldTpIdleAnimation": "holdbothhandslarge",
+  "heldTpUseAnimation": "twohandplaceblock",
   "texture": {
     "base": "game:block/clay/ceramic-dark"
   },
@@ -49,5 +51,16 @@
 			"smeltedStack": { "type": "block", "code": "pitchpot-pinetar" },
 			"requiresContainer": false
 		}
-	}
+	},
+  "selectionBoxes": [
+    { "x1": 0.208, "y1": 0, "z1": 0.208, "x2": 0.792, "y2": 0.357, "z2": 0.792 },
+    { "x1": 0.308, "y1": 0.357, "z1": 0.308, "x2": 0.6919, "y2": 0.456, "z2": 0.6919 },
+    { "x1": 0.284, "y1": 0.456, "z1": 0.284, "x2": 0.716, "y2": 0.61, "z2": 0.716 },
+  ],
+  "collisionbox": { "x1": 0.3125, "y1": 0, "z1": 0.3125, "x2": 0.6875, "y2": 0.4375, "z2": 0.6875 },
+  "tpHandTransform": {
+    "translation": { "x": -0.87, "y": -0.86, "z": -0.54 },
+    "rotation": { "x": 9, "y": 12, "z": -79 },
+    "scale": 0.56
+  }
 }

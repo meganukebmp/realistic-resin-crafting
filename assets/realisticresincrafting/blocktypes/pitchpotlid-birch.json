@@ -45,8 +45,8 @@
   },
   "combustiblePropsByType": {
 		"pitchpotlid-birch": {
-			"meltingPoint": 250,
-			"meltingDuration": 180,
+			"meltingPoint": 450,
+			"meltingDuration": 540,
 			"smeltedRatio": 1,
 			"smeltingType": "cook",
 			"smeltedStack": { "type": "block", "code": "pitchpot-resin" },

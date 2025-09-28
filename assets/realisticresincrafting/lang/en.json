@@ -24,5 +24,17 @@
 	"block-pitchpotlid-birch": "Pitchpot (Birch)",
 	"block-pitchpot-pinetar": "Pitchpot (Pine-tar)",
 	"block-pitchpot-resin": "Pitchpot (Refined Resin)",
-	"item-antiseptic-bandage": "Antiseptic Bandage"
+	"item-antiseptic-bandage": "Antiseptic Bandage",
+	"resin-production:introduction-title": "Resin Production",
+	
+	
+	"resin-production:introduction-text": "To start the production of resin, you will first need to smith a drawing knife. This requires at least Tin Bronze in terms of metal progression. 
+
+Then follows a crafting chain of intermediary materials, which depends on the type of resinous wood you have access to - birch or pine logs.
+
+The first material comes from putting an axe, a log (birch or pine) and a drawknife in the crafting grid, which will result in either Birch Bark Strips or Pine Fatwood chunks.
+
+The Birch Bark Strips need to be soaked in a barrel full of water - 64 at a time for 48 hours, which produces Birch Bark Pulp. It must be combined with a plank of any kind and 8 clay in the crafting grid to produce a lidded Pitchpot, which then needs to be cooked in order to condense it into refined resin. After this process the Pitchpot needs be either placed and broken by hand or combined with a hammer in the crafting grid in order to produce 8 resin.
+
+Pine Fatwood Chunks need to be cooked into Pinepitch Bars. This process takes a long time so stock up on firewood. Those bars have a side-use as a means of crafting Antiseptic Bandages, which have a very long application time and low healing per second, but as a trade-off are a full heal. The main use of Pinepitch Bars is crafting them into Pitchpots together with 8 clay and 1 charcoal. The Pine Pitchpots need to then be cooked additionally until the tar separates at the top, which then allows it to be skimmed by placing the pot together with a knife in the crafting grid, which produces a pot of refined resin. Breaking the tar pot before skimming it will result in a random mix of resin and Pinepitch Bars.",
 }

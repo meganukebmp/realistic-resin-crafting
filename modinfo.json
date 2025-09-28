@@ -5,7 +5,7 @@
   "authors": [
     "Niki", "Nexrem","Akaylass"
   ],
-  "description": "Just look up resin in the handybook, you're a big boy",
+  "description": "Just look up resin in the handybook",
   "version": "1.0.0",
   "side" : "Universal",
   "dependencies": { "game": "", "survival": ""}

@@ -1,0 +1,22 @@
+{
+  "code": "birch-bark-pulp",
+  "sealHours": 96,
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "game:waterportion",
+      "litres": 32,
+      "consumeLitres": 32
+    },
+    {
+      "type": "item",
+      "code": "indappledgroves:bark-birch-dry",
+      "quantity": 64
+    }
+  ],
+  "output": {
+    "type": "item",
+    "code": "realisticresincrafting:birch-bark-pulp",
+    "quantity": 1
+  }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "op": "move",
+        "frompath": "/combustiblePropsByType/*",
+        "path": "/temp",
+        "file": "ancienttools:itemtypes/resources/bark.json"
+    },
+    {
+        "file": "ancienttools:itemtypes/resources/bark.json",
+        "op": "addmerge",
+        "path": "/combustiblePropsByType",
+        "side": "server",
+        "value": {
+            "bark-pine": {
+                "meltingPoint": 250,
+                "meltingDuration": 180,
+                "smeltedRatio": 2,
+                "smeltingType": "cook",
+                "smeltedStack": { "type": "item", "code": "realisticresincrafting:pinepitch-bar" },
+                "requiresContainer": false
+            }
+        }
+    },
+    {
+        "op": "move",
+        "frompath": "/temp",
+        "path": "/combustiblePropsByType/*",
+        "file": "ancienttools:itemtypes/resources/bark.json"
+    }
+]

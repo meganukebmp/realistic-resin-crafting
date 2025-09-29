@@ -26,7 +26,8 @@
     "place": "game:block/ceramicplace"
   },
   "behaviors": [
-    { "name": "RightClickPickup"}
+    { "name": "RightClickPickup"},
+    { "name": "UnstableFalling"}
   ],
   "sideopaque": {
     "all": false
